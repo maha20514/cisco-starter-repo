@@ -1,0 +1,12 @@
+.banner {
+    margin: 0.5vw;
+    padding: 0vw 2vw 0vw 2vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.75vw;
+    color: #00330b;
+    background-color: #0a6d17;
+    border: 0.25vw solid #006605;
+    border-radius: 2vw;
+  }
+  

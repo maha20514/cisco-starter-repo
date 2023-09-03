@@ -1,14 +1,14 @@
 import './App.css';
+import Banner from './Banner';
+import Exhibit from './Exhibit';
 
 function App() {
   return (
     <div className="App">
-      <div>
-        <h1>Sextant</h1>
-      </div>
-      <div>
-        components
-      </div>
+        <Banner bannerText="Sextant" />
+        <Exhibit name="Exhibit 1"></Exhibit>
+        <Exhibit name="Exhibit 2"></Exhibit>
+        <Exhibit name="Exhibit 3"></Exhibit>
     </div>
   );
 }
